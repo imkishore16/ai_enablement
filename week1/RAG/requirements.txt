@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+pypdf
+chromadb
+tiktoken
+beautifulsoup4
+requests
+certifi
+pydantic>=2.0
+sentence-transformers
+faiss-cpu
