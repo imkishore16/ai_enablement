@@ -1,0 +1,38 @@
+Payroll Processing Schedule
+
+Pay Periods:
+- Bi-weekly payroll (every 2 weeks)
+- Pay dates: Every other Friday
+
+2025 Pay Schedule:
+
+January:
+- Pay Period 1: Jan 1-14, Paid: Jan 17
+- Pay Period 2: Jan 15-28, Paid: Jan 31
+
+February:
+- Pay Period 1: Jan 29 - Feb 11, Paid: Feb 14
+- Pay Period 2: Feb 12-25, Paid: Feb 28
+
+March:
+- Pay Period 1: Feb 26 - Mar 11, Paid: Mar 14
+- Pay Period 2: Mar 12-25, Paid: Mar 28
+
+Processing Timeline:
+- Timesheets due: Monday by 5 PM (end of pay period)
+- Payroll processed: Tuesday-Wednesday
+- Direct deposit: Friday (or next business day if Friday is holiday)
+
+Holiday Adjustments:
+- If pay date falls on a holiday, payment is made on the previous business day
+
+Direct Deposit:
+- Set up through Employee Self-Service Portal
+- Changes must be submitted by Wednesday of pay week
+- Takes effect the following pay period
+
+Pay Stub Access:
+- Available on Employee Portal: https://portal.company.com/payroll
+- Emailed to your company email on pay day
+
+For payroll questions: payroll@company.com

@@ -1,0 +1,32 @@
+Laptop Request Process
+
+To request a new laptop:
+
+1. Submit a request through the IT Service Portal: https://it.company.com/requests
+2. Select "Hardware Request" > "Laptop"
+3. Fill out the form with:
+   - Reason for request (new hire, replacement, upgrade)
+   - Preferred specifications (if any)
+   - Urgency level
+   - Manager approval
+
+Standard Laptop Options:
+- Dell Latitude 5540 (Standard business laptop)
+- MacBook Pro 14" (For design/development roles)
+- MacBook Air 13" (Lightweight option)
+
+Processing Time:
+- Standard requests: 5-7 business days
+- Urgent requests: 2-3 business days (requires manager approval)
+
+New Hire Process:
+- Laptops are automatically ordered for new hires
+- IT will contact you on your start date
+- Setup assistance available on first day
+
+Replacement Process:
+- Submit request with reason (damage, performance issues, end of life)
+- Include laptop serial number if available
+- IT will assess and approve replacement
+
+For questions, contact: it-hardware@company.com

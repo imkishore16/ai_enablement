@@ -1,0 +1,29 @@
+VPN Setup Guide
+
+To set up VPN access:
+
+1. Download the VPN client from the IT portal: https://it.company.com/vpn-client
+2. Install the VPN client on your device
+3. Launch the VPN application
+4. Enter your company email and password
+5. Select your preferred server location
+6. Click "Connect"
+
+For Windows:
+- Use the Windows VPN client installer
+- Run as administrator if prompted
+- Default server: vpn.company.com
+
+For Mac:
+- Use the macOS VPN client installer
+- Grant necessary permissions when prompted
+- Default server: vpn.company.com
+
+For mobile devices:
+- Download the mobile VPN app from App Store or Google Play
+- Use the same credentials as desktop
+
+Troubleshooting:
+- If connection fails, check your internet connection
+- Ensure you're using the correct credentials
+- Contact IT support at it-support@company.com if issues persist

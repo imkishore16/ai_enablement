@@ -1,0 +1,38 @@
+Approved Software List
+
+The following software is approved for company use:
+
+Productivity:
+- Microsoft Office 365 (Word, Excel, PowerPoint, Outlook)
+- Google Workspace (Gmail, Drive, Docs, Sheets)
+- Slack for team communication
+- Zoom for video conferencing
+
+Development Tools:
+- Visual Studio Code
+- Git
+- Docker
+- Python 3.8+
+- Node.js LTS versions
+
+Design Tools:
+- Adobe Creative Cloud (with approval)
+- Figma
+- Canva (business accounts)
+
+Security Tools:
+- LastPass (password manager)
+- Company VPN client
+
+Software Installation Process:
+1. Check if software is on this approved list
+2. If approved, download from official vendor website
+3. If not on list, submit request to IT at it-requests@company.com
+4. Wait for approval before installation
+
+Restricted Software:
+- Personal cloud storage (Dropbox, iCloud) - use company OneDrive instead
+- Unauthorized remote access tools
+- Peer-to-peer file sharing applications
+
+For software requests, email: it-requests@company.com

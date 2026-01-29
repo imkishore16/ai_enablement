@@ -1,0 +1,44 @@
+Monthly Budget Report - January 2025
+
+Department Budget Summary:
+
+Engineering:
+- Budget: $500,000
+- Spent: $425,000
+- Remaining: $75,000
+- Status: On track
+
+Sales & Marketing:
+- Budget: $300,000
+- Spent: $285,000
+- Remaining: $15,000
+- Status: On track
+
+Operations:
+- Budget: $200,000
+- Spent: $195,000
+- Remaining: $5,000
+- Status: On track
+
+HR & Admin:
+- Budget: $150,000
+- Spent: $142,000
+- Remaining: $8,000
+- Status: On track
+
+Total Company Budget:
+- Budget: $1,150,000
+- Spent: $1,047,000
+- Remaining: $103,000
+- Utilization: 91%
+
+Key Expenses:
+- Salaries and Benefits: $750,000
+- Technology and Infrastructure: $150,000
+- Marketing and Advertising: $100,000
+- Office Rent and Utilities: $47,000
+
+Budget reports are available monthly on the Finance Portal.
+Access: https://finance.company.com/reports
+
+For detailed reports, contact: finance-reports@company.com
